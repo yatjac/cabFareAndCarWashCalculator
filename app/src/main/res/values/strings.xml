@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Cab Fare Car Wash HW2</string>
+    <string-array name="txtgroup">
+        <item>car</item>
+        <item>suv</item>
+        <item>van</item>
+    </string-array>
+    <string name="App_Main_Screen_Title">Cab Fare and Car Wash</string>
+    <string name="cab_fare_title">Cab Fare</string>
+    <string name="car_wash_title">Car Wash</string>
+</resources>
